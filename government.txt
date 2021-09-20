@@ -1,3 +1,5 @@
 https://factfinder.census.gov/faces/nav/jsf/pages/download_center.xhtml: You can find various stats about populations and demographics here.
 
 http://data-cityofmadison.opendata.arcgis.com/.  City of Madison data about parking, bike traffic, and much more.
+
+https://www.cityofmadison.com/news	City of Madison news section.
